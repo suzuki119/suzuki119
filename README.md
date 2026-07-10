@@ -5,6 +5,8 @@
 
 # 👋 Hi, I'm Yutaro Suzuki
 
+# 鈴木優太郎です
+
 ### Web Designer / Front-End Developer
 
 Webデザイン・フロントエンド開発・3DCG制作を学習しています。
