@@ -116,7 +116,7 @@ https://github.com/suzuki119
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/suzuki119/suzuki119/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/suzuki119/suzuki119/output/github-contribution-grid-snake.svg">
 </p>
 
 <!--
