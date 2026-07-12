@@ -1,45 +1,68 @@
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Web+Designer;Front-End+Developer;React;Three.js;Blender" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=1000&center=true&vCenter=true&width=700&lines=Yutaro+Suzuki;Web+Designer;Front-End+Developer;React+%7C+Three.js+%7C+Blender" />
 </p>
-<div align="center">
 
-# 👋 Hi, I'm Yutaro Suzuki
-
-# 鈴木優太郎です
-
-### Web Designer / Front-End Developer
-
-Webデザイン・フロントエンド開発・3DCG制作を学習しています。
-
-</div>
-
----
-
-# 🚀 About Me
-
-- 🎓 Webデザインを学習中
-- 💻 React・JavaScriptを使ったWeb制作
-- 🌐 Three.jsを利用したWeb×3D表現
-- 🎨 Blenderによる3DCG制作
-- 📖 新しい技術を学びながら作品制作を続けています
-
----
-
-# 🛠 Skills
+<h1 align="center">
+こんにちは、鈴木優太郎です 👋
+</h1>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,git,github,vscode,figma,blender" />
+Web Designer / Front-End Developer
+</p>
+
+<p align="center">
+Webデザイン・フロントエンド・3DCGを組み合わせた作品制作をしています。
+<br>
+「見やすく・使いやすく・楽しいWeb体験」を目指して学習中です。
+</p>
+---
+
+## 🚀 About Me
+
+🎓 Webデザインを学習中
+
+💻 HTML / CSS / JavaScript / React
+
+🌐 Three.jsを利用したWeb×3D制作
+
+🎨 Blenderで3DCGモデリング
+
+📝 ブログで制作記録を発信
+
+📚 新しい技術を学びながらポートフォリオを制作しています。
+
+## 🛠 Skills
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=
+
+html,
+css,
+js,
+react,
+threejs,
+blender,
+figma,
+git,
+github,
+vscode
+
+"/>
+
 </p>
 
 ---
 
 # 📂 Featured Projects
 
-## 🌐 Web Portfolio
+## 🌐 Portfolio
 
-Webデザイン作品やコーディング作品を掲載しています。
+### 🎨 Portfolio Site
 
-🔗 https://（あなたのポートフォリオ）
+制作したWebサイト・デザイン・3DCG作品を掲載しています。
+
+🔗 https://susuki-island.heavy.jp/myportfolio/
 
 ---
 
@@ -63,7 +86,7 @@ Blenderで制作した作品をまとめています。
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=suzuki119&show_icons=true&theme=transparent"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suzuki119&layout=compact&theme=transparent"/>
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=suzuki119&theme=transparent"/>
 
 </p>
 
@@ -79,18 +102,28 @@ Blenderで制作した作品をまとめています。
 
 ---
 
-# 📫 Contact
+## 📫 Contact
 
-- Portfolio：https://susuki-island.heavy.jp/myportfolio/
-- GitHub：https://github.com/suzuki119
+🌐 Portfolio
+https://susuki-island.heavy.jp/myportfolio/
+
+💻 GitHub
+https://github.com/suzuki119
+
+📝 Blog
+（ブログURL）
 
 ---
 
 <div align="center">
 
-### Thank you for visiting!
+### Thanks for visiting! 😊
 
-⭐ Feel free to check out my repositories.
+現在Webデザイナー・フロントエンドエンジニアを目指して学習・制作を続けています。
+
+気になるリポジトリや作品がありましたら、ぜひご覧ください！
+
+⭐ Feel free to explore my repositories.
 
 </div>
 
