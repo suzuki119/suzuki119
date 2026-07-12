@@ -70,19 +70,7 @@ Three.jsとBlenderを活用したWeb×3D作品です。
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=suzuki119&show_icons=true&theme=transparent"/>
-
 <img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=suzuki119&theme=transparent"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophy
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=suzuki119&theme=flat&no-frame=true&row=1&column=6"/>
 
 </p>
 
