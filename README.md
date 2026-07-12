@@ -1,55 +1,43 @@
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=1000&center=true&vCenter=true&width=700&lines=Yutaro+Suzuki;Web+Designer;Front-End+Developer;React+%7C+Three.js+%7C+Blender" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2500&pause=800&center=true&vCenter=true&width=700&lines=Yutaro+Suzuki;Web+Designer;Front-End+Developer;React+%7C+Three.js+%7C+Blender" />
 </p>
 
-<h1 align="center">
-こんにちは、鈴木優太郎です 👋
-</h1>
+<h1 align="center">👋 Hi, I'm Yutaro Suzuki</h1>
 
 <p align="center">
-Web Designer / Front-End Developer
+  <b>Web Designer</b> ・ <b>Front-End Developer</b>
 </p>
 
 <p align="center">
-Webデザイン・フロントエンド・3DCGを組み合わせた作品制作をしています。
-<br>
-「見やすく・使いやすく・楽しいWeb体験」を目指して学習中です。
+Webデザイン・フロントエンド開発・3DCG制作を学んでいます。<br>
+React・Three.js・Blenderを活用し、デザインと技術を組み合わせた作品制作に取り組んでいます。
 </p>
+
+<p align="center">
+  <a href="https://susuki-island.heavy.jp/myportfolio/">
+    <img src="https://img.shields.io/badge/🌐Portfolio-2ea44f?style=for-the-badge" />
+  </a>
+  <a href="https://github.com/suzuki119">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
-🎓 Webデザインを学習中
+- 🎓 Webデザインを学習中
+- 💻 HTML / CSS / JavaScript / PHP / React
+- 🌐 Three.jsを利用したWeb×3D表現
+- 🎨 Blenderによる3DCG制作
+- 📝 ポートフォリオや制作記録を継続的に更新中
 
-💻 HTML / CSS / JavaScript / React
+---
 
-🌐 Three.jsを利用したWeb×3D制作
-
-🎨 Blenderで3DCGモデリング
-
-📝 ブログで制作記録を発信
-
-📚 新しい技術を学びながらポートフォリオを制作しています。
-
-## 🛠 Skills
+# 🛠 Tech Stack
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=
-
-html,
-css,
-js,
-react,
-threejs,
-blender,
-figma,
-git,
-github,
-vscode
-
-"/>
-
+<img src="https://skillicons.dev/icons?i=html,css,scss,js,php,react,threejs,wordpress,figma,blender,git,github,vscode" />
 </p>
 
 ---
@@ -58,27 +46,49 @@ vscode
 
 ## 🌐 Portfolio
 
-### 🎨 Portfolio Site
-
 制作したWebサイト・デザイン・3DCG作品を掲載しています。
 
 🔗 https://susuki-island.heavy.jp/myportfolio/
 
 ---
 
-## 🏠 Web × 3D
+## 🚶 Walk
 
-Three.jsを利用した3Dコンテンツです。
+Three.jsとBlenderを活用したWeb×3D作品です。
 
 🔗 https://github.com/suzuki119/walk
 
 ---
 
-## 🎨 3DCG Works
+## 🐉 Blender Works
 
-Blenderで制作した作品をまとめています。
+3DCG作品を制作・公開しています。
 
-# 🔥 Activity
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=suzuki119&show_icons=true&theme=transparent"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=suzuki119&theme=transparent"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophy
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=suzuki119&theme=flat&no-frame=true&row=1&column=6"/>
+
+</p>
+
+---
+
+# 📈 Activity Graph
 
 <p align="center">
 
@@ -88,48 +98,42 @@ Blenderで制作した作品をまとめています。
 
 ---
 
-## 📫 Contact
+# 🐍 Contribution Snake
 
-🌐 Portfolio
-https://susuki-island.heavy.jp/myportfolio/
+<p align="center">
 
-💻 GitHub
-https://github.com/suzuki119
+<img src="https://raw.githubusercontent.com/suzuki119/suzuki119/output/github-contribution-grid-snake.svg"/>
 
-📝 Blog
-（ブログURL）
+</p>
 
 ---
 
-<div align="center">
+# 📫 Contact
 
-### Thanks for visiting! 😊
+- 🌐 Portfolio  
+  https://susuki-island.heavy.jp/myportfolio/
 
-現在Webデザイナー・フロントエンドエンジニアを目指して学習・制作を続けています。
+- 💻 GitHub  
+  https://github.com/suzuki119
 
-気になるリポジトリや作品がありましたら、ぜひご覧ください！
-
-⭐ Feel free to explore my repositories.
-
-</div>
-
-## 🐍 Contribution Snake
+---
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/suzuki119/suzuki119/output/github-contribution-grid-snake.svg">
+
+<img src="https://komarev.com/ghpvc/?username=suzuki119&style=for-the-badge"/>
+
 </p>
 
-<!--
-**suzuki119/suzuki119** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+<h3 align="center">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Thanks for visiting! 😊
+
+</h3>
+
+<p align="center">
+
+⭐ Feel free to explore my repositories!
+
+</p>
