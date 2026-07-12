@@ -113,6 +113,12 @@ https://github.com/suzuki119
 
 </div>
 
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/suzuki119/suzuki119/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
+
 <!--
 **suzuki119/suzuki119** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
